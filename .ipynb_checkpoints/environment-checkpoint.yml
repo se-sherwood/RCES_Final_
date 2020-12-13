@@ -8,7 +8,4 @@ dependencies:
   - matplotlib
   - cartopy
   - scipy
-  - datetime
-  - sklearn
-  - warnings
-  - gdrivefs
+  - sklearn.linear_model
